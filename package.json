@@ -1,0 +1,35 @@
+{
+  "name": "nyg-opensource-jam3",
+  "version": "1.0.0",
+  "description": "Jam3 Open Source Library Generator with no build configuration and no prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jam3/nyg-opensource-jam3.git"
+  },
+  "keywords": [
+    "jam3",
+    "project",
+    "scaffold",
+    "generator",
+    "nyg",
+    "open source",
+    "library",
+    "npm"
+  ],
+  "engines": {
+    "node": ">=10.15.0",
+    "npm": ">=6.5.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/nyg-opensource-jam3/issues"
+  },
+  "homepage": "https://github.com/Jam3/nyg-opensource-jam3#readme",
+  "dependencies": {
+    "nyg": "^2.8.1"
+  }
+}
