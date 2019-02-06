@@ -26,6 +26,7 @@
     "@commitlint/cli": "7.5.0",
     "@commitlint/config-conventional": "7.5.0",
     "babel-eslint": "10.0.1",
+    "envinfo": "6.0.1",
     "eslint": "5.13.0",
     "eslint-config-jam3": "2.0.0",
     "eslint-config-prettier": "4.0.0",
