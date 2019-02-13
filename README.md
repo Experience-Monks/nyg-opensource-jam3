@@ -55,7 +55,7 @@ The tasks are:
 
 ## Recommended Services
 
-It's recommended to integrate the below services:
+It's recommended to integrate the below services and badges:
 1. [Snyk](https://snyk.io/)
 2. [Travis CI](https://travis-ci.org/)
 3. [Greenkeeper](https://greenkeeper.io/)
