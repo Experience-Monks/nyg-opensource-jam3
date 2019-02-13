@@ -1,5 +1,7 @@
 # [Library Name]
 
+[Badges]
+
 [Description]
 
 * [Installation](#installation)
