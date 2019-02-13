@@ -55,7 +55,7 @@ The tasks are:
 
 ## Recommended Services
 
-It's recommended to integrate the below services and badges:
+It's recommended to integrate the below services:
 1. [Snyk](https://snyk.io/)
 2. [Travis CI](https://travis-ci.org/)
 3. [Greenkeeper](https://greenkeeper.io/)
@@ -64,3 +64,5 @@ It's recommended to integrate the below services and badges:
 6. [Code Climate](https://codeclimate.com)
 7. [Sonar cloud](https://sonarcloud.io/)
 8. [Bundle Size](https://github.com/siddharthkp/bundlesize) It's already include, but not integrated with the status in GitHub
+
+After you start using the services you can move forward and add the badges in your Readme, to learn more use [https://shields.io/](https://shields.io/)
