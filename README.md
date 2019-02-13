@@ -1,7 +1,7 @@
 # Jam3 Open Source Library Generator
 
-[![stable](http://hughsk.github.io/stability-badges/dist/stable.svg)](http://github.com/hughsk/stability-badges)
 [![Greenkeeper badge](https://badges.greenkeeper.io/Jam3/nyg-opensource-jam3.svg)](https://greenkeeper.io/)
+[![stable](http://hughsk.github.io/stability-badges/dist/stable.svg)](http://github.com/hughsk/stability-badges)
 
 Jam3 Open Source Library Generator with no build configuration and no prompts
 
