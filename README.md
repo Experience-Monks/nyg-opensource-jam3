@@ -55,3 +55,8 @@ The tasks are:
 It's recommended to integrate the below services:
 1. [Snyk](https://snyk.io/)
 2. [Travis CI](https://travis-ci.org/)
+3. [Greenkeeper](https://greenkeeper.io/)
+4. [Coveralls](https://coveralls.io/)
+5. [David-dm](https://david-dm.org/)
+6. [Code Climate](https://codeclimate.com)
+7. [Sonar cloud](https://sonarcloud.io/)
