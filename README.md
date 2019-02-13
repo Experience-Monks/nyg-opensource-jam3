@@ -60,3 +60,4 @@ It's recommended to integrate the below services:
 5. [David-dm](https://david-dm.org/)
 6. [Code Climate](https://codeclimate.com)
 7. [Sonar cloud](https://sonarcloud.io/)
+8. [Bundle Size](https://github.com/siddharthkp/bundlesize) It's already include, but not integrated with the status in GitHub
