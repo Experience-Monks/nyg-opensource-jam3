@@ -1,4 +1,7 @@
-# Jam3 Open Source Library Generator [![stable](http://hughsk.github.io/stability-badges/dist/stable.svg)](http://github.com/hughsk/stability-badges)
+# Jam3 Open Source Library Generator
+
+[![stable](http://hughsk.github.io/stability-badges/dist/stable.svg)](http://github.com/hughsk/stability-badges)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Jam3/nyg-opensource-jam3.svg)](https://greenkeeper.io/)
 
 Jam3 Open Source Library Generator with no build configuration and no prompts
 
@@ -7,7 +10,7 @@ Jam3 Open Source Library Generator with no build configuration and no prompts
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/nyg-opensource-jam3.png)](https://www.npmjs.com/package/nyg-opensource-jam3) [![Greenkeeper badge](https://badges.greenkeeper.io/Jam3/nyg-opensource-jam3.svg)](https://greenkeeper.io/)
+[![NPM](https://nodei.co/npm/nyg-opensource-jam3.png)](https://www.npmjs.com/package/nyg-opensource-jam3)
 
 `nyg-opensource-jam3` is using [nyg](https://github.com/Jam3/nyg) to generate the template, and should be installed first.
 
