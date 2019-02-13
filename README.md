@@ -54,3 +54,4 @@ The tasks are:
 
 It's recommended to integrate the below services:
 1. [Snyk](https://snyk.io/)
+2. [Travis CI](https://travis-ci.org/)
