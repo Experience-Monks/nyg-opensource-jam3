@@ -1,5 +1,10 @@
-# Changelog
+# Change Log
 
-## Launch v1.0.0
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-A library is born
+<a name="0.0.1"></a>
+## 0.0.1
+
+### Features
+
+- A library is born
