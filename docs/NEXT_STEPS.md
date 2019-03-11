@@ -1,5 +1,14 @@
 # Next steps
 
+## Update package.json
+
+You may want to add to your package json the properties:
+
+- repository
+- bugs
+- homepage
+- keywords
+
 ## Services to add
 
 It's time to add free services essential to keeping the quality of our library/project:

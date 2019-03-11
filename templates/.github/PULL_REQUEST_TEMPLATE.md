@@ -1,6 +1,5 @@
 <!--
-Please make sure to read the Contributing Guidelines:
-https://github.com/Jam3/library/CONTRIBUTING.md
+Please make sure to read the Contributing Guidelines: CONTRIBUTING.md
 -->
 
 <!--- Provide a general summary of your changes in the PR Title -->
