@@ -1,5 +1,5 @@
 {
-  "name": "@jam3/library",
+  "name": "library",
   "version": "0.0.1",
   "description": "[Description]",
   "main": "src/index.js",
@@ -11,18 +11,10 @@
     "audit": "audit-ci --high",
     "release": "standard-version"
   },
-  "keywords": [
-    "library"
-  ],
   "engines": {
     "node": ">=10.15.0",
     "npm": ">=6.5.0"
   },
-  "repository": "git+https://github.com/Jam3/library.git",
-  "bugs": {
-    "url": "https://github.com/Jam3/library/issues"
-  },
-  "homepage": "https://github.com/Jam3/library#readme",
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "7.5.2",
