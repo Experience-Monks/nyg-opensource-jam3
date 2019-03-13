@@ -19,6 +19,7 @@ It's time to add free services essential to keeping the quality of our library/p
 - Snyk - Dependencies vulnerabilities
 - Code climate - Code quality
 - Sonarcloud - Bugs, Quality, Security of your code
+- Codacy - Automated code reviews
 - Fossa - License checker
 
 ## Documentation
