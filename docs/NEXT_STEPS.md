@@ -24,9 +24,15 @@ It's time to add free services essential to keeping the quality of our library/p
 
 ## Documentation
 
-If your library or project is extensive and your Readme is not enough, you may like to use something like [Docusaurus](https://docusaurus.io/).
+If your library or project is extensive and your Readme is not enough, you may like to use something like [Docusaurus](https://docusaurus.io/) or [Git Book](https://docs.gitbook.com/).
 
 Use GitHub pages will be great to have your documentation or page site in the same place than your code for free.
+
+## Real Device/Browser testing
+
+If your library is aiming the frontend and you would like to automate the tests of your supported device matrix, you can use the free version for open source projects of:
+- [Browserstack](https://www.browserstack.com/open-source)
+- [Testingbot](https://testingbot.com/open-source)
 
 ## Typing
 
