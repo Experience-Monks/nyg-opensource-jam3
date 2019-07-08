@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test/",
     "linters": "npm run js-lint",
-    "js-lint": "eslint './*.js' -c ./.eslintrc --quiet"
+    "js-lint": "eslint \"./*.js\" -c ./.eslintrc --quiet"
   },
   "repository": {
     "type": "git",
